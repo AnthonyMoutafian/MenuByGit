@@ -34,3 +34,7 @@
     padding-left: 20px;
     padding-right: 20px;
 }
+.link-font:hover{
+    background-color: aqua;
+    border-radius: 25px;
+}
