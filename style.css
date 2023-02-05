@@ -2,3 +2,8 @@
     margin: 0;
     padding: 0;
 }
+
+.menu{
+    background-color: rgb(49, 49, 49);
+    height: 75px;
+}
